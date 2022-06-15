@@ -1,0 +1,12 @@
+@media( max-width:850px) {
+    .menu a {
+        display: block;
+    }
+    .menu {
+        margin: 0 auto;
+        width: 10%;
+    }
+    .creator {
+        margin-top: auto;
+    }
+}
